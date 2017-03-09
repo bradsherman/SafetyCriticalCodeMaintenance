@@ -1,7 +1,7 @@
 Maintaining Safety Critical Code
 ================================
 
-Brad Sherman
-Pauline Blatt
-Jessie Frio
-Cory Jbara
+Brad Sherman<br>
+Pauline Blatt<br>
+Jessie Frio<br>
+Cory Jbara<br>
